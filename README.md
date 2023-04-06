@@ -60,4 +60,5 @@ This `cdk` application is a `Java` based. Make sure `node`, `aws-cdk`, `aws-cli`
 # Release History
 1. [v1.0.0](https://github.com/onerishabh/qrcode-analytics-flask/releases/tag/v1.0.0) - 8th August, 2022
 
+# References
 source [repository](https://github.com/onerishabh/qrcode-analytics-flask/fork)
