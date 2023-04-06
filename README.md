@@ -60,9 +60,4 @@ This `cdk` application is a `Java` based. Make sure `node`, `aws-cdk`, `aws-cli`
 # Release History
 1. [v1.0.0](https://github.com/onerishabh/qrcode-analytics-flask/releases/tag/v1.0.0) - 8th August, 2022
 
-# Future Plans/Improvements
-- [ ] Add better front-end to interact with the application. 
-- [ ] Integrate `stripe payment gateway` to the application. 
-- [ ] Write test cases to acheive 100% `coverage`. 
-- [ ] Add test case to check docker image hashes between `GitHub` and `AWS ECR`.
-- [ ] Add test case to check `QRCodeFlaskServerStack`. Currently failing due to inter-stack parameter passing. Need to read more into `AWS CDK` testing. 
+source [repository](https://github.com/onerishabh/qrcode-analytics-flask/fork)
